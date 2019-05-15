@@ -1,0 +1,9 @@
+---
+test:
+  name: test
+difference:
+  name: difference
+annotation:
+  name: annotation
+error:
+  name: error
